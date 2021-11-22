@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/SSH-Management/utils v1.0.0
+	github.com/SSH-Management/utils/v2 v2.0.0
 	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
 )
 

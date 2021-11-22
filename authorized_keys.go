@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SSH-Management/utils"
+	"github.com/SSH-Management/utils/v2"
 )
 
 func CreateAuthorizedKeys(authorizedKeys string, userId, groupId int, perm int, exec func(file *os.File) error) error {
