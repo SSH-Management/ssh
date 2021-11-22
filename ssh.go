@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/SSH-Management/utils"
+	"github.com/SSH-Management/utils/v2"
 	"golang.org/x/crypto/ssh"
 )
 
